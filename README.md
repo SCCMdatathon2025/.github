@@ -1,5 +1,5 @@
 
-# Welcome SCCM Datathon 2024 Participants
+# Welcome SCCM Datathon 2025 Participants
 
 ---
 
@@ -16,7 +16,7 @@
 ## Schedule
 
 
-| **Time** | Sat, 13 July | Time | Sun, 14 July  |
+| **Time** | Sat, 19 July | Time | Sun, 20 July  |
 |-------|------------------|--- |--|
 |7:15 a.m. – 8:00 a.m.| ☕ Registration and Continental Breakfast| 7:15 a.m. – 9:30 a.m.| 🛠️ Datathon Team Work |
 |8:00 a.m. – 8:15 a.m.	| Welcome |  9:00 a.m. – 9:30 a.m. | 🚩 Checkpoint 4
@@ -39,7 +39,7 @@ Mentors have 5 minutes per table during the checkpoint. Please expect mentors to
 
 Please feel free to flag down mentors during the Teamwork sessions.
 
-**Sat, 13 July**
+**Sat, 19 July**
 
 By Checkpoint 1, please be ready to discuss your final question.
 
@@ -48,7 +48,7 @@ By Checkpoint 2, please be ready to discuss your variables + analytical plan.
 By Checkpoint 3, please be ready to discuss your analytical plan. You probably should have your dataset cleaned by this point in time.
 
 
-**Sun, 14 July**
+**Sun, 20 July**
 
 By Checkpoint 4, please be ready to discuss your results + presentation.
 
