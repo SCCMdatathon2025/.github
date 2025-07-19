@@ -57,7 +57,7 @@ By Checkpoint 5, please be ready to discuss your presentation.
 
 
 ---
-## Teams - July 2024
+## Teams - July 2025
 
 | Team | Data Science | Clinical |
 | --- | --- | --- |
