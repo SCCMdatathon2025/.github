@@ -1,6 +1,7 @@
 # SCCM Datathon 2025
 
-<img width="1920" height="581" alt="image" src="https://github.com/user-attachments/assets/bfb055b2-002a-4481-82ac-1b943033bf53" />
+<img width="1180" height="651" alt="image" src="https://github.com/user-attachments/assets/4ef56df0-9407-416b-8bb8-1ccfef2be332" />
+
 
 
 - [welcome to SCCM datathon 2025.ipynb](https://colab.research.google.com/drive/1KD1lsVd_0YzY2I1MV-nOowEVeoSKgV4I)
