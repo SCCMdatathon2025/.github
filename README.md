@@ -11,7 +11,7 @@
 
 ---
 
-- (Main SCCM Datathon 2025 GitHub)[https://github.com/SCCMdatathon2025]
+- [Main SCCM Datathon 2025 GitHub](https://github.com/SCCMdatathon2025)
 
 
 ## Schedule
