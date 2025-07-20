@@ -27,7 +27,7 @@
 | 9:15 a.m. – 12:00 p.m.	| 🛠️ Datathon Teamwork | | |
 | 10:45 a.m. – 11:15 a.m.  | 🚩 Checkpoint 1 | | |
 | 11:15 a.m. – 12:00 p.m. | 🛠️ Datathon Teamwork | | |
-| 12:00 p.m. – 1:00 p.m.| 🍕 Working lunch |  12:00 p.m. – 12:30 p.m. | 🍕 Lunch |
+| 12:00 p.m. – 1:00 p.m.| 🍕 Working lunch |  12:00 p.m. – 12:30 p.m. | Noon deadline to submit presentations! 🍕 Lunch |
 | 1:00 p.m. – 1:30 p.m.	| 🚩 Checkpoint 2  | 12:30 p.m. – 3:00 p.m. | 🎤 Datathon Team Presentations,  Judging, 👋 Closing session|
 | 2:00 p.m. – 2:30 p.m.| 🛠️ Datathon Teamwork |  | |
 | 2:30 p.m. – 3:00 p.m. | 🚩 Checkpoint 3| | |
